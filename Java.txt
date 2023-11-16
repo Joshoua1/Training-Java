@@ -1,0 +1,24 @@
+Prerequits of Java
+- Need to learn python nicely because many libraries are pe defined in Java
+
+JVM (Java Vertual Machine)- Runs java the code
+JRE - Compiles the java code
+
+
+Q1. Write a java program ro check wether the number is neon number or not
+Q2. write a java program to print series of the number 2,4,4,8,6,12,8,..............
+Q3. Write a program to check wether the number is positive negative or 0
+Q4. Write a java program to check wether the number is amstrong or not
+Q5. Write a java program to check wether the number is prfect or not from 0 to 20.
+Q6. Write a java program to check wether number is palindrome or not.
+Q7. Write a java code to print a staircse pattern for alphabet where number of rows is given by user.
+Q8. Write a java code to print a series of number every even places print odd number ande every odd places even number take the range from user
+Q9. Write a java code to print reverse staircse pattern of alphabet and take the number of rows from user
+Q10. write a java code to replace every zeros with one
+Q11. write a java code to calculate area of circle,rectangle,triangle and circumference of circle 
+Q12. A class has an integer data member 'i' and a method named 'printNum' to print the value of 'i' .
+     Its subclass also an integer data member 'j' and an method named 'printNum' to print the value of'j' 
+     Make an object of the subclass and use it to assign a value to 'i' and to 'j' Now call the method  'printNum' by this object
+Q13. Write a Java program to cearte a class called person with private instance variable name, age and country. 
+     Provide public getter and setter methods to acess and modify these variables 
+Q14. 
